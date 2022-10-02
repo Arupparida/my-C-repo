@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employee>
+	<emp>
+		<empno>100</empno>
+		<ename>krishna</ename>
+		<desig>training</desig>
+	</emp>
+	<emp>
+		<empno>200</empno>
+		<ename>vijay</ename>
+		<desig>Developer</desig>
+	</emp>
+	<emp>
+		<empno>300</empno>
+		<ename>Rajesh</ename>
+		<desig>trainee</desig>
+	</emp>
+	<emp>
+		<empno>400</empno>
+		<ename>Tarun</ename>
+		<desig>hr</desig>
+	</emp>
+	
+</Employee>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_oops", "Day9_oops.csproj", "{CEBCA273-A1D7-4E20-92CE-14A2BDA03A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_oopshandson", "..\Day9_oopshandson\Day9_oopshandson.csproj", "{37CBD3CA-EA28-4B5A-A38C-C4719C8CD71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBCA273-A1D7-4E20-92CE-14A2BDA03A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBCA273-A1D7-4E20-92CE-14A2BDA03A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBCA273-A1D7-4E20-92CE-14A2BDA03A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBCA273-A1D7-4E20-92CE-14A2BDA03A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CBD3CA-EA28-4B5A-A38C-C4719C8CD71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CBD3CA-EA28-4B5A-A38C-C4719C8CD71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CBD3CA-EA28-4B5A-A38C-C4719C8CD71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CBD3CA-EA28-4B5A-A38C-C4719C8CD71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DD4BB8-62A1-462E-98AE-F2D9E8061902}
+	EndGlobalSection
+EndGlobal

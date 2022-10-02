@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\bin\Debug\Day9_oops.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\bin\Debug\Day9_oops.exe
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\bin\Debug\Day9_oops.pdb
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\obj\Debug\Day9_oops.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\obj\Debug\Day9_oops.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\obj\Debug\Day9_oops.exe
+C:\Users\ARUP PARIDA\source\repos\Day9_oops\obj\Debug\Day9_oops.pdb

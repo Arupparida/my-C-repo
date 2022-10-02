@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\bin\Debug\Day10_abstraction.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\bin\Debug\Day10_abstraction.exe
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\bin\Debug\Day10_abstraction.pdb
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\obj\Debug\Day10_abstraction.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\obj\Debug\Day10_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\obj\Debug\Day10_abstraction.exe
+C:\Users\ARUP PARIDA\source\repos\Day10_abstraction\obj\Debug\Day10_abstraction.pdb

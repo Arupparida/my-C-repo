@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\bin\Debug\Day12_delegate.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\bin\Debug\Day12_delegate.exe
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\bin\Debug\Day12_delegate.pdb
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\obj\Debug\Day12_delegate.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\obj\Debug\Day12_delegate.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\obj\Debug\Day12_delegate.exe
+C:\Users\ARUP PARIDA\source\repos\Day12_delegate\obj\Debug\Day12_delegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\bin\Debug\Day8_oops.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\bin\Debug\Day8_oops.exe
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\bin\Debug\Day8_oops.pdb
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\obj\Debug\Day8_oops.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\obj\Debug\Day8_oops.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\obj\Debug\Day8_oops.exe
+C:\Users\ARUP PARIDA\source\repos\Day8_oops\obj\Debug\Day8_oops.pdb

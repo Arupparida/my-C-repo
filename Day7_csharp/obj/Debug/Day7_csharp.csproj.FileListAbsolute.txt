@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\bin\Debug\Day7_csharp.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\bin\Debug\Day7_csharp.exe
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\bin\Debug\Day7_csharp.pdb
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\obj\Debug\Day7_csharp.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\obj\Debug\Day7_csharp.exe
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\obj\Debug\Day7_csharp.pdb
+C:\Users\ARUP PARIDA\source\repos\Day7_csharp\obj\Debug\Day7_csharp.csproj.AssemblyReference.cache

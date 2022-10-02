@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_csharp", "Day7_csharp.csproj", "{A1700BB3-5BB8-451B-8D7E-429866EAB931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_csharphandson", "..\Day7_csharphandson\Day7_csharphandson.csproj", "{BD638710-A4E1-47E4-AEA6-9970E422475D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1700BB3-5BB8-451B-8D7E-429866EAB931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1700BB3-5BB8-451B-8D7E-429866EAB931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1700BB3-5BB8-451B-8D7E-429866EAB931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1700BB3-5BB8-451B-8D7E-429866EAB931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD638710-A4E1-47E4-AEA6-9970E422475D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD638710-A4E1-47E4-AEA6-9970E422475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD638710-A4E1-47E4-AEA6-9970E422475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD638710-A4E1-47E4-AEA6-9970E422475D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EEAC2C-BE94-4FBB-B2FB-5ABD92EDE9B7}
+	EndGlobalSection
+EndGlobal

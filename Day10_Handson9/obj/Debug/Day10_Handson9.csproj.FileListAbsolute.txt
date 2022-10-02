@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\bin\Debug\Day10_Handson9.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\bin\Debug\Day10_Handson9.exe
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\bin\Debug\Day10_Handson9.pdb
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\obj\Debug\Day10_Handson9.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\obj\Debug\Day10_Handson9.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\obj\Debug\Day10_Handson9.exe
+C:\Users\ARUP PARIDA\source\repos\Day10_Handson9\obj\Debug\Day10_Handson9.pdb

@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\bin\Debug\Day9_oopshandson.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\bin\Debug\Day9_oopshandson.exe
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\bin\Debug\Day9_oopshandson.pdb
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\obj\Debug\Day9_oopshandson.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\obj\Debug\Day9_oopshandson.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\obj\Debug\Day9_oopshandson.exe
+C:\Users\ARUP PARIDA\source\repos\Day9_oopshandson\obj\Debug\Day9_oopshandson.pdb

@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\bin\Debug\Day7_csharphandson.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\bin\Debug\Day7_csharphandson.exe
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\bin\Debug\Day7_csharphandson.pdb
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\obj\Debug\Day7_csharphandson.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\obj\Debug\Day7_csharphandson.exe
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\obj\Debug\Day7_csharphandson.pdb
+C:\Users\ARUP PARIDA\source\repos\Day7_csharphandson\obj\Debug\Day7_csharphandson.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\bin\Debug\Day11_collections.exe.config
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\bin\Debug\Day11_collections.exe
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\bin\Debug\Day11_collections.pdb
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\obj\Debug\Day11_collections.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\obj\Debug\Day11_collections.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\obj\Debug\Day11_collections.exe
+C:\Users\ARUP PARIDA\source\repos\Day11_collections\obj\Debug\Day11_collections.pdb

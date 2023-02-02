@@ -24,6 +24,23 @@ namespace Day11_collections
             {
                 Console.WriteLine(items);
             }
+            
+            
+            
+            //creating arraylist 
+            //comment section not in use for Csharp collection section '
+            ArrayList al =  new ArrayList();
+            string sent =  "This is today's push";
+            int x =  7;
+            DateTime d = DateTime.Parse("10-Oct-2022");
+            al.add(sent);
+            al.add(x);
+            al.add(d);
+            
+            foreach(object obj in al){
+                Response.Write (obj);
+                Resonse.Write("<br>");
+            }
                 
             
         }

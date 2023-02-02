@@ -33,9 +33,9 @@ namespace Day11_collections
             string sent =  "This is today's push";
             int x =  7;
             DateTime d = DateTime.Parse("10-Oct-2022");
-            al.add(sent);
-            al.add(x);
-            al.add(d);
+            al.Add(sent);
+            al.Add(x);
+            al.Add(d);
             
             foreach(object obj in al){
                 Response.Write (obj);

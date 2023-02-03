@@ -52,7 +52,9 @@ namespace Day11_collections
             
             foreach(DictionaryEntry d in ht)
             {
-                
+                Response.Write(d.key + " " + d.key);
+                Response.Write("<br>");
+                    
             }
             
             

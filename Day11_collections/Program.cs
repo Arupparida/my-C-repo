@@ -41,6 +41,21 @@ namespace Day11_collections
                 Response.Write (obj);
                 Resonse.Write("<br>");
             }
+            
+            
+            
+            //creating hashtable 
+            Hashtable ht = new Hashtable();
+            ht.add("ora", "orange");
+            ht.add("pine","pineapple");
+            ht.add("app","apple");
+            
+            foreach(DictionaryEntry d in ht)
+            {
+                
+            }
+            
+            
                 
             
         }

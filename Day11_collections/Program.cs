@@ -26,8 +26,9 @@ namespace Day11_collections
             }
             
             
-            
+            //starting all non generic collections 
             //creating arraylist 
+            //arraylist - It is similar to array but array list can store more than one datatype.
             //comment section not in use for Csharp collection section '
             ArrayList al =  new ArrayList();
             string sent =  "This is today's push";
@@ -45,17 +46,36 @@ namespace Day11_collections
             
             
             //creating hashtable 
+            //hashtable - It is similar to arraylist but represents item as a combination of a key and value. 
             Hashtable ht = new Hashtable();
-            ht.add("ora", "orange");
-            ht.add("pine","pineapple");
-            ht.add("app","apple");
+            ht.Add("ora", "orange");
+            ht.Add("pine","pineapple");
+            ht.Add("app","apple");
+            ht.Add("bana","Banana");
             
             foreach(DictionaryEntry d in ht)
+                //DictionaryEntry is a class whose objects represents key and value pairs.
             {
-                Response.Write(d.key + " " + d.key);
+                Response.Write(d.key + " " + d.Value);
                 Response.Write("<br>");
                     
             }
+            
+            
+            //creating sorted list 
+            SortedList Sl1 = new SortedList();
+            sl1.Add("ora" , "Orange");
+            sl1.Add("pine", "pineapple");
+            sl1.Add("app", "apple");
+            sl1.Add("bana","Banana");
+            
+            foreach(DictionaryEntry d in ht)
+            {
+                Response.Write(d.key + " " + d.Value);
+                Resposne.Write("<br>");
+                    
+            }
+            
             
             
                 

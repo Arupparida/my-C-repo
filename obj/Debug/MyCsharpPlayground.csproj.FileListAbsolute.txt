@@ -1,0 +1,7 @@
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\bin\Debug\MyCsharpPlayground.exe.config
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\bin\Debug\MyCsharpPlayground.exe
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\bin\Debug\MyCsharpPlayground.pdb
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\obj\Debug\MyCsharpPlayground.csproj.AssemblyReference.cache
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\obj\Debug\MyCsharpPlayground.csproj.CoreCompileInputs.cache
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\obj\Debug\MyCsharpPlayground.exe
+C:\Users\ARUP PARIDA\source\repos\MyCsharpPlayground\obj\Debug\MyCsharpPlayground.pdb

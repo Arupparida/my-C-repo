@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyCsharpPlayground.Class_GetSet</StartupObject>
+    <StartupObject>MyCsharpPlayground.Cls_Inheritance1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class_GetSet.cs" />
+    <Compile Include="Cls_Inheritance1.cs" />
+    <Compile Include="CountOccurence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
